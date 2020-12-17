@@ -5,19 +5,11 @@ At present, a large number of manipulators use deep learning method to grasp a s
 
 # Experiment
 
-## 1.Single-target grasping
+### 1.Single-target grasping
 
 [![Grasp_1](https://res.cloudinary.com/marcomontalbano/image/upload/v1608188630/video_to_markdown/images/youtube--V4QIez8l8vc-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/V4QIez8l8vc "Grasp_1")
 
-## 2.Multi-target grasping
+### 2.Multi-target grasping
 
 [![Grasp_1](https://res.cloudinary.com/marcomontalbano/image/upload/v1608188630/video_to_markdown/images/youtube--V4QIez8l8vc-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/V4QIez8l8vc "Grasp_1")
 
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/QRayMoor/MinBRect/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
