@@ -12,4 +12,4 @@ At present, a large number of manipulators use deep learning method to grasp a s
 [![Grasp_1](https://res.cloudinary.com/marcomontalbano/image/upload/v1608188630/video_to_markdown/images/youtube--V4QIez8l8vc-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/V4QIez8l8vc "Grasp_1")
 
 # *网页仍在建设中...*
-<amp-youtube data-videoid="GfIoHnTeCAw" layout="responsive" width="480" height="270">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBFFCLiWhRw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
