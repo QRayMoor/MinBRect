@@ -1,4 +1,4 @@
-# MinBRect
+# MinBRect：Efficient Visual Grasping Algorithm and System for Robotic Arm Based on RGB-D Image
 - Project display page：
 https://qraymoor.github.io/MinBRect/
 
