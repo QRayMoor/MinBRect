@@ -16,8 +16,14 @@ Robotic arms can replace manpower for grasping and other tasks to improve produc
 - Wood Block
 <iframe width="739" height="417" src="https://www.youtube.com/embed/rDq1iqHI5a0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+- Sleeve Connector
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/8iey24X1Qbc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- 
+
 ### 2.Multi-target grasping
-<iframe width="739" height="417" src="https://www.youtube.com/embed/V4QIez8l8vc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="739" height="417" src="https://www.youtube.com/embed/ApaOWrdOk-Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # *网页仍在建设中...*
 
