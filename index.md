@@ -9,7 +9,7 @@
 
 ### 1.Single-target grasping
 - Stapler
-<iframe width="833" height="470" src="https://www.youtube.com/embed/V4QIez8l8vc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="833" height="470" src="https://www.youtube.com/embed/R604wt3xKkc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - Screwdriver
 <iframe width="833" height="470" src="https://www.youtube.com/embed/csaJkbRtMBg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
