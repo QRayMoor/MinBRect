@@ -29,4 +29,4 @@
 ### 2.Multi-target grasping
 <iframe width="833" height="470" src="https://www.youtube.com/embed/2FJ7A4YKRFM?list=TLPQMDkwMTIwMjGI8SH0ANHfxw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Blocked? Click [HERE](https://www.bilibili.com/video/BV1dp4y1b7te/) to see the video.
+### Blocked? Click [HERE](https://www.bilibili.com/video/BV1dp4y1b7te/) to see the videos.
